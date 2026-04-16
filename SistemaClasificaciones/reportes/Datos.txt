@@ -1,0 +1,5 @@
+ingrese datos de luis
+
+name = luis Escobar
+edad = 19
+pais = El Salvador
